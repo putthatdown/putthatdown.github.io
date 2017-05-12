@@ -29,11 +29,25 @@ exclude:
   - Gemfile
   - Gemfile.lock
 
+collections:
+  retropie:
+    output: true
+
 # Predefined values
 defaults:
   -
     scope:
       path: ""
-      type: "posts"
     values:
       layout: "post"
+  -
+    scope:
+      path: ""
+      type: "retropie"
+    values:
+      layout: "page"
+      categories: "projects"
+      tags:
+        - "nes"
+        - "raspberry pi"
+        - "retropie"
