@@ -11,7 +11,7 @@ Hardware received, software ready, lets put it together.
 4. Install the memory card
 5. Put the board in the case. There's really only one way, you can't get it wrong. Just don't force anything and you'll be fine.
 6. Re-assemble the case
-7. Hook up the controller(s), HDMI, and Ethernet (optional)
+7. Hook up the controller(s), HDMI, Ethernet, and keyboard
 8. Connect the power cable
 
-As you can see, the rig is super simple. Since there's no on/off switch, everything needs to be connected before plugging the machine in. There's also no way for it to detect new or changed hardware on-the-fly, so if you un/attach anything, you'll have to restart before the changes are discovered.
+Since there's no on/off switch, everything needs to be connected before plugging the machine in. There's also no way for it to detect new or changed hardware on-the-fly, so if you un/attach anything, you'll have to restart before the changes are discovered.
