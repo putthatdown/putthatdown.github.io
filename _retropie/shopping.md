@@ -1,19 +1,18 @@
 ---
-title:  "Hardware"
+title:  "Shopping"
 date:   2017-05-11 09:51:00
 ---
 
-Creating a dedicated emulation rig is fun, cheap (~$100), and takes up only the tiniest bit of space. The following certainly isn't a requirement, but it is what I used for this project, so if you're planning to follow along, it'll be easiest if you use the same.
+Creating a dedicated emulation rig is cheap, fun, and only takes up the tiniest bit of space. Let's go shopping!
 
 ## The essentials
 
-* [Official Raspberri Pi 3 case](https://www.amazon.com/gp/product/B01F1PSFY6/ref=oh_aui_detailpage_o07_s00?ie=UTF8&psc=1) (~$8)
+* [Official Raspberry Pi 3 case](https://www.amazon.com/gp/product/B01F1PSFY6/ref=oh_aui_detailpage_o07_s00?ie=UTF8&psc=1) (~$8)
 * [CanaKit Raspberry Pi 3 with 2.5A Micro USB Power Supply](https://www.amazon.com/gp/product/B01C6FFNY4/ref=oh_aui_detailpage_o07_s01?ie=UTF8&psc=1) (~$45)
 * [Samsung EVO 64GB Micro SDXC Memory Card](https://www.amazon.com/gp/product/B00IVPU7AO/ref=oh_aui_detailpage_o08_s00?ie=UTF8&psc=1) (~$30)
 * [2 Packs Classic Nintendo USB NES Controller](https://www.amazon.com/gp/product/B01EUZEQLO/ref=oh_aui_detailpage_o04_s00?ie=UTF8&psc=1) (~$12)
 
-The controllers are essentially the best of the worst. Ratings for USB classic Nintendo controllers are pretty universally <3.5 stars out of 5. Out of the 2 pack, one was damn near unusable and the other only got a little squirrely using the D-Pad down button, so I submitted for a refund, which the company granted without questions and without wanting the controllers back - Free controllers, wo0t!
-
+The controllers are essentially the best of the worst. Ratings for USB classic Nintendo controllers are pretty universally <3.5 stars out of 5. Out of the 2 pack on my list, one was damn near unusable and the other only got a little squirrelly using the D-Pad down button. I ended up submitting for a refund from the company, which they granted without asking for the controllers back. So even thought they aren't great, they were FREE, wo0t!
 
 ## The bells and whistles
 
