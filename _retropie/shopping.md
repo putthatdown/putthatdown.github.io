@@ -1,5 +1,5 @@
 ---
-title:  "Shopping"
+title:  "Step 1: Shopping"
 date:   2017-05-11 09:51:00
 ---
 

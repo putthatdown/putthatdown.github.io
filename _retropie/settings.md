@@ -1,5 +1,5 @@
 ---
-title:  "Settings"
+title:  "Step 4: Settings"
 date:   2017-05-29 12:00
 ---
 

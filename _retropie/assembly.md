@@ -1,5 +1,5 @@
 ---
-title:  "Assembly"
+title:  "Step 3: Assembly"
 date:   2017-05-26 18:00
 ---
 

@@ -1,5 +1,5 @@
 ---
-title:  "RetroPie"
+title:  "Step 2: RetroPie"
 date:   2017-05-26 15:00
 ---
 
